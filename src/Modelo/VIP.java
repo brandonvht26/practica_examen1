@@ -2,7 +2,7 @@ package Modelo;
 
 import java.util.*;
 
-class VIP extends Normal { // Segundo Nivel de Herencia
+public class VIP extends Normal { // Segundo Nivel de Herencia
 
     private List<String> otrosServicios;
     private final double recargo = 0.30;

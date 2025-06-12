@@ -1,6 +1,6 @@
 package Modelo;
 
-class Normal extends Servicio { // Primer Nivel de Herencia
+public class Normal extends Servicio { // Primer Nivel de Herencia
 
     protected String tipoAsiento;
 

@@ -1,6 +1,6 @@
 package Modelo;
 
-class Ticket {
+public class Ticket {
 
     private Pasajero pasajero;
     private Ruta ruta;
